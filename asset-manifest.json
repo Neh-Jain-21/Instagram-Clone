@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Instagram-Clone/static/css/main.5f7ea04c.chunk.css",
+    "main.js": "/Instagram-Clone/static/js/main.bf9772f8.chunk.js",
+    "main.js.map": "/Instagram-Clone/static/js/main.bf9772f8.chunk.js.map",
+    "runtime-main.js": "/Instagram-Clone/static/js/runtime-main.dc746496.js",
+    "runtime-main.js.map": "/Instagram-Clone/static/js/runtime-main.dc746496.js.map",
+    "static/js/2.899fa984.chunk.js": "/Instagram-Clone/static/js/2.899fa984.chunk.js",
+    "static/js/2.899fa984.chunk.js.map": "/Instagram-Clone/static/js/2.899fa984.chunk.js.map",
+    "index.html": "/Instagram-Clone/index.html",
+    "static/css/main.5f7ea04c.chunk.css.map": "/Instagram-Clone/static/css/main.5f7ea04c.chunk.css.map",
+    "static/js/2.899fa984.chunk.js.LICENSE.txt": "/Instagram-Clone/static/js/2.899fa984.chunk.js.LICENSE.txt",
+    "static/media/Mclaren Senna.89c47dc3.jpg": "/Instagram-Clone/static/media/Mclaren Senna.89c47dc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc746496.js",
+    "static/js/2.899fa984.chunk.js",
+    "static/css/main.5f7ea04c.chunk.css",
+    "static/js/main.bf9772f8.chunk.js"
+  ]
+}
